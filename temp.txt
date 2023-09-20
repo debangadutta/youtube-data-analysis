@@ -1,0 +1,1 @@
+read json as df -> extract req column (items) -> convert to parquet -> push to destination location
